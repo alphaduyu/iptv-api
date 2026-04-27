@@ -1,8 +1,18 @@
 🕘️更新时间,#genre#
-2026-04-27 21:41:30,url
+2026-04-27 21:46:30,https://example.com/update
+
+🕘更新时间,#genre#
+更新时间,https://example.com/update
 
 📺央视频道,#genre#
 
-📡卫视频道,#genre#
+🛰️卫视频道,#genre#
 
-☘️广东频道,#genre#
+🍀广东频道,#genre#
+
+🌏港澳频道,#genre#
+
+🧰备用频道,#genre#
+CCTV-1 备用,https://example.com/cctv1-bak.m3u8
+CCTV-5 备用,https://example.com/cctv5-bak.m3u8
+湖南卫视备用,https://example.com/hunan-bak.m3u8

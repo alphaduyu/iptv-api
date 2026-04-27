@@ -1,3 +1,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/alphaduyu/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-27 21:41:30
-url
+#EXTINF:-1 tvg-id="更新时间" tvg-name="更新时间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/更新时间.png" group-title="🕘️更新时间",2026-04-27 21:46:30
+https://example.com/update
+#EXTINF:-1 tvg-id="更新时间" tvg-name="更新时间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/更新时间.png" group-title="🕘更新时间",更新时间
+https://example.com/update
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 备用" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 备用.png" group-title="🧰备用频道",CCTV-1 备用
+https://example.com/cctv1-bak.m3u8
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5 备用" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5 备用.png" group-title="🧰备用频道",CCTV-5 备用
+https://example.com/cctv5-bak.m3u8
+#EXTINF:-1 tvg-id="湖南卫视备用" tvg-name="湖南卫视备用" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视备用.png" group-title="🧰备用频道",湖南卫视备用
+https://example.com/hunan-bak.m3u8
